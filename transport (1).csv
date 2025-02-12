@@ -1,0 +1,11 @@
+Gender,Car Ownership,Travel Cost,Income Level,Mode
+m,0,cheap,low,bus
+m,1,cheap,medium,bus
+f,1,cheap,medium,train
+f,0,cheap,low,bus
+m,1,cheap,medium,bus
+m,0,standard,medium,train
+f,1,standard,medium,train
+f,1,expensive,high,car
+m,2,expensive,medium,car
+f,2,expensive,high,car
